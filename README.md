@@ -1,4 +1,4 @@
-Simprak Mahasiswa, Katalog, Login dan Register
+-----------------------  Simprak Mahasiswa, Katalog, Login dan Register       ----------------------------------
 ![Screenshot 2025-07-05 220150](https://github.com/user-attachments/assets/12915e4f-f811-4ff9-88b5-ad88f38cab19)
 ![Screenshot 2025-07-05 220159](https://github.com/user-attachments/assets/92f5d8c6-eb62-4724-bf49-c42f6ff7bd46)
 ![Screenshot 2025-07-05 220207](https://github.com/user-attachments/assets/4e9df1a0-d209-4bb5-97fc-a1e1388146aa)
@@ -8,7 +8,7 @@ Simprak Mahasiswa, Katalog, Login dan Register
 ![Screenshot 2025-07-05 220501](https://github.com/user-attachments/assets/a0310fb3-6427-44da-a85d-071d8ea67e4f)
 ![Screenshot 2025-07-05 221401](https://github.com/user-attachments/assets/8d909d28-f830-41a6-9998-65e240b28141)
 
-Simprak Asisten 
+----------                             Simprak Asisten                        ----------------------------------
 ![Screenshot 2025-07-05 220541](https://github.com/user-attachments/assets/ff775090-4b82-48fa-9218-59de3cbd71ff)
 ![Screenshot 2025-07-05 220601](https://github.com/user-attachments/assets/5c935e6b-6be6-4e4f-80eb-d0f29ff5fd42)
 ![Screenshot 2025-07-05 220611](https://github.com/user-attachments/assets/2a169ee6-f3bb-4108-8aec-ebce50a6ae50)
